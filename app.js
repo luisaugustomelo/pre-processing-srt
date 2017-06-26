@@ -20,7 +20,6 @@ var connection = mysql.createConnection({
   password : 'root',
   database : 'Trabalho2'
 });
-var app = express();
 
 connection.connect(function(err){
 if(!err) {
