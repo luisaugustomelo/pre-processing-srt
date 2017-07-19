@@ -26,7 +26,7 @@ function buildSpawnParams(video, start, end, id){
 	return params;
 }
 
-//Função para botar o nome do arquivo em CamelCase
+//Função para botar o nome do arquivo em Camelcase
 function camelize(str) {
   return str.replace(/(?:^\w|[A-Z]|\b\w)/g, function(letter, index) {
     return index == 0 ? letter.toLowerCase() : letter.toUpperCase();
