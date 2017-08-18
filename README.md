@@ -1,5 +1,7 @@
 # pre-processing-srt
 
+## projeto descontinuado, versão mais atual: https://github.com/mvcouto/pre-processing-srt
+
 O script de pré-processamento de arquivos SRT é executado por meio do seguinte comando:
 node pre-processing-srt.js inglourious-basterds-english
 
